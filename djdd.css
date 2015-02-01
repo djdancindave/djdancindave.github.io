@@ -1,0 +1,49 @@
+
+body { 
+  font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  color:white;
+  background:black;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+hr {
+  noshade
+  background-color: yellow;
+  color: yellow;
+}
+
+
+h3 {
+  color:yellow;
+}
+
+A:link    { color:yellow; text-decoration:none }
+A:visited { color:yellow; text-decoration:none }
+A:active  { color:yellow; text-decoration:none }
+A:hover   { color:cyan; text-decoration:none }
+
+
+.djddtitle {
+  font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  color:yellow;
+  background:black;
+}
+
+.djddtitle A:link { color:white; text-decoration:none }
+.djddtitle A:visited { color:white; text-decoration:none }
+.djddtitle A:active { color:white; text-decoration:none }
+.djddtitle A:hover   { color:cyan; text-decoration:none }
+
